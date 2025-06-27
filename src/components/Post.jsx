@@ -101,7 +101,7 @@ export function Post({...props}) {
 
       setNewCommentText('');
     } else {
-      //alerta!
+      //TODO criar alerta!
     }
   }
 
